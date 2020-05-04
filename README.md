@@ -1,2 +1,2 @@
-# Peddi Ashrith's Blog
+### Peddi Ashrith's Blog
 ### My BTEC Life

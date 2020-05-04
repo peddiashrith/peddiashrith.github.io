@@ -1,1 +1,1 @@
-# peddiashrith.github.io
+# Peddi Ashrith's Blog

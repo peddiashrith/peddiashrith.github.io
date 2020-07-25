@@ -1,4 +1,4 @@
-# Peddi Ashrith's Blog
-### My BTEC Life
-In this blog I will be sharing my journey of engineering life.
-I was very keen to search for an internship.
+
+
+[![Header](https://raw.githubusercontent.com/peddiashrith/peddiashrith/master/header.svg)](https://github.com/peddiashrith/peddiashrith)
+
